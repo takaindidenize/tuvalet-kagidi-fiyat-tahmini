@@ -1,4 +1,4 @@
-# Tuvalet Kağıdı Fiyat Tahmini 🧻
+# Tuvalet Kağıdı Fiyat Tahmini 
 
 Türkiye'deki tuvalet kağıdı ürünlerinin **rulo başına fiyatını** ürün özelliklerinden tahmin eden küçük bir makine öğrenmesi çalışması. Doğrusal Regresyon ve Random Forest modelleri karşılaştırılıyor, sonuçlar dört grafikle görselleştiriliyor.
 
@@ -42,8 +42,8 @@ fiyat_per_rulo = paket_fiyati_tl / rulo_sayisi
 ## Kurulum
 
 ```bash
-git clone https://github.com/takaindidenize/tuvalet-kag-d--tahmini.git
-cd tuvalet-kag-d--tahmini
+git clone https://github.com/takaindidenize/tuvalet-kagidi-fiyat-tahmini.git
+cd tuvalet-kagidi-fiyat-tahmini
 pip install pandas numpy scikit-learn matplotlib
 ```
 
